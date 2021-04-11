@@ -5,3 +5,6 @@ some description
 
 Watch tutorial on Youtube
 
+# instructions
+
+1. Open an index file in browser
